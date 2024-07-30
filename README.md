@@ -6,4 +6,7 @@ Requires:
 
 Installing:
   pip install SpeechRecognition
+
+Docs:
+  https://pypi.org/project/SpeechRecognition/
   
